@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "X like Social Media Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat-9825/Y.git"
+  },
+  "author": "Akshat Dwivedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat-9825/Y/issues"
+  },
+  "homepage": "https://github.com/akshat-9825/Y#readme"
+}
