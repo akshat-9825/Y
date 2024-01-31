@@ -1,0 +1,10 @@
+{
+  "name": "y-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Akshat",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
